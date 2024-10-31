@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Healing Potion",
+    "description": "A potion that recovers 25% of your HP"
+  },
+  {
+    "name": "Weakening Potion",
+    "description": "A potion that reduces your enemy's maximum HP by 25%"
+  },
+  {
+    "name": "Crit Potion",
+    "description": "A potion that ensures your next attack is a critical hit"
+  }
+]

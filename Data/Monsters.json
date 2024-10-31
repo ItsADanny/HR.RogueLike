@@ -1,0 +1,37 @@
+{
+  "monsters": [
+    {
+      "Bat": {
+        "Name": "Bat",
+        "MaxHitPoints": 40,
+        "Strength": 10,
+        "Dexterity": 150,
+        "Tier": 1
+      },
+
+      "Giant Rat": {
+        "Name": "Giant Rat",
+        "MaxHitPoints": 150,
+        "Strength": 25,
+        "Dexterity": 50,
+        "Tier": 1
+      },
+
+      "Goblin": {
+        "Name": "Goblin",
+        "MaxHitPoints": 100,
+        "Strength": 25,
+        "Dexterity": 25,
+        "Tier": 1
+      },
+
+      "Skeleton": {
+        "Name": "Skeleton",
+        "MaxHitPoints": 50,
+        "Strength": 20,
+        "Dexterity": 15,
+        "Tier": 1
+      }
+    }
+  ]
+}
